@@ -1,0 +1,14 @@
+C:\Users\steve\source\repos\sbCurlClone\bin\Debug\net8.0\sbCurlClone.exe
+C:\Users\steve\source\repos\sbCurlClone\bin\Debug\net8.0\sbCurlClone.deps.json
+C:\Users\steve\source\repos\sbCurlClone\bin\Debug\net8.0\sbCurlClone.runtimeconfig.json
+C:\Users\steve\source\repos\sbCurlClone\bin\Debug\net8.0\sbCurlClone.dll
+C:\Users\steve\source\repos\sbCurlClone\bin\Debug\net8.0\sbCurlClone.pdb
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.AssemblyInfo.cs
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.dll
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\refint\sbCurlClone.dll
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.pdb
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\sbCurlClone.genruntimeconfig.cache
+C:\Users\steve\source\repos\sbCurlClone\obj\Debug\net8.0\ref\sbCurlClone.dll
